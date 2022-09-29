@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Visitor Count](https://profile-counter.glitch.me/AAAAlien/count.svg)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AAAAlien)](https://github.com/AAAAlien/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AAAAlien&layout=compact)](https://github.com/AAAAlien/github-readme-stats)
