@@ -1,6 +1,6 @@
 <div align="center">
   <!-- 建议使用一张：克莱因蓝底色的像素风海面，海平线升起/落下日落橙色的太阳 -->
-  <img src="https://via.placeholder.com/800x200/002FA7/FF5E4D?text=[Pixel+Sunset+Over+Deep+Blue+Sea]" alt="INFP Banner" width="100%" />
+  <img src="./background.png" alt="INFP Banner" width="100%" />
 
   # 👾 Hello, I'm Yizhou.
   
